@@ -1,0 +1,8 @@
+[build]
+  command = "expo export --platform web"
+  publish = "static"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
