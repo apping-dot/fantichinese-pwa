@@ -1,4 +1,4 @@
-// App.js
+
 
 import { NavigationContainer  } from '@react-navigation/native';
 import { SettingsProvider } from './contexts/SettingsContext';
