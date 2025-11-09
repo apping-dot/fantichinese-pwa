@@ -1,6 +1,6 @@
 [build]
   command = "npx expo export:web"
-  publish = "web-build"
+  publish = "calm-violet-peanut/calm-violet-peanut/web-build"
 
 [[redirects]]
   from = "/*"
