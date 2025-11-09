@@ -4,6 +4,7 @@
     "slug": "fantichinese",
     "version": "1.0.0",
     "web": {
+      "bundler": "webpack"
       "favicon": "./assets/icons/icon-192.png",
       "manifest": {
         "name": "FantiChinese",
@@ -31,3 +32,4 @@
     }
   }
 }
+
