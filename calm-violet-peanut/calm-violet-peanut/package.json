@@ -26,7 +26,6 @@
     "expo-av": "~15.1.7",
     "expo-file-system": "~18.1.11",
     "expo-linear-gradient": "~14.1.5",
-    "expo-router": "^6.0.14",
     "expo-secure-store": "~14.2.4",
     "expo-sqlite": "~15.2.14",
     "expo-status-bar": "~2.2.3",
