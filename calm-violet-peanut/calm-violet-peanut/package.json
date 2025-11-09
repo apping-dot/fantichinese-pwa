@@ -12,6 +12,7 @@
     "build": "expo export --platform web"
   },
   "dependencies": {
+    "expo-router": "^1.9.10",
     "expo": "^51.0.28",
     "@expo/metro-config": "~0.17.6",
     "metro": "^0.81.0",
