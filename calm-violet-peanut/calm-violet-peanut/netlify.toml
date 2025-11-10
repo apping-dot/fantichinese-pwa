@@ -1,9 +1,0 @@
-[build]
-  base = "calm-violet-peanut/calm-violet-peanut"  # folder containing package.json & app.json
-  command = "npx expo export"
-  publish = "dist"
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
