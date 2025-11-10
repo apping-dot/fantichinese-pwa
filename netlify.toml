@@ -1,6 +1,6 @@
 [build]
   base = ""
-  command = "npx expo export"
+  command = "npx expo export && cp web/* dist/"
   publish = "dist"
 
 [[redirects]]

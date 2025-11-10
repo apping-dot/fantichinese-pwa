@@ -3,6 +3,7 @@
     "name": "FantiChinese",
     "slug": "fantichinese",
     "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],  // Move platforms to the root level
     "web": {
       "bundler": "webpack",
       "output": "static",
