@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "FantiChinese",
+    "slug": "fantichinese",
+    "version": "1.0.0",
+    "web": {
+      "bundler": "webpack",
+      "output": "static",
+      "favicon": "./assets/icons/icon-192.png",
+      "manifest": {
+        "name": "FantiChinese",
+        "short_name": "fantichinese",
+        "start_url": ".",
+        "display": "standalone",
+        "background_color": "#F7F6FF",
+        "theme_color": "#A5B4FC",
+        "icons": [
+          {
+            "src": "/assets/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+          },
+          {
+            "src": "/assets/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+          }
+        ]
+      }
+    }
+  }
+}
