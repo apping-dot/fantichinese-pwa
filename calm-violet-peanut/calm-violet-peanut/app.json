@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "web": {
       "bundler": "webpack",
+      "output": "static",
       "favicon": "./assets/icons/icon-192.png",
       "manifest": {
         "name": "FantiChinese",
@@ -26,11 +27,6 @@
           }
         ]
       }
-    },
-    "web": {
-      "output": "static"
     }
   }
 }
-
-
